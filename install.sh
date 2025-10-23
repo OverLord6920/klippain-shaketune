@@ -30,7 +30,7 @@ function preflight_checks {
         exit -1
     fi
 
-    install_package_requirements
+    
 }
 
 # Function to check if a package is installed
