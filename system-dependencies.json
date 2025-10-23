@@ -2,7 +2,6 @@
     "debian": [
         "python3-venv",
         "python3-numpy",
-        "python3-matplotlib",
-        "libopenblas-dev"
+        "python3-matplotlib"
     ]
 }
